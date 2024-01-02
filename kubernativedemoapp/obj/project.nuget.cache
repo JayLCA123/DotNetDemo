@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "k5QxpKgAwEVLNUj7bWttOLCv+SFURx0SC+ItTv3RhOhXgRl67AA9MTtLFZDALQq9J/f/Cayb7JPzJ8nHCw7WBQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Cdot-DemoApp\\kubernativedemoapp\\kubernativedemoapp\\kubernativedemoapp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay.saraniya\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
